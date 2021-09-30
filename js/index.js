@@ -34,4 +34,4 @@ window.addEventListener("scroll",()=>{
 	}
 })
 
-              // PORTFOLIO //
+
